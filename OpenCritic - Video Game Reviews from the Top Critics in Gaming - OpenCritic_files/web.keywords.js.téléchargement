@@ -1,0 +1,5 @@
+
+        window.$adManagementConfig = window.$adManagementConfig || {};
+        window.$adManagementConfig.web = window.$adManagementConfig.web || {};
+        window.$adManagementConfig.web.keywords = {"status":"PROCESSED","sales_kw":"opencritic,gaming,top critics,video game reviews,place,top critic,mighty man,way,tagging game,score,color scheme,good game,loot,green tiered loot","sales_cat":"680","sales_safety":"GGT6"};
+      
